@@ -59,5 +59,3 @@ Este código Java é um utilitário para lidar com arquivos Excel (.xlsx). Ele f
 
 16. **Saída na Console:**
     - A saída na console fornece informações sobre cada etapa do processo, desde a verificação da existência do arquivo até a criação bem-sucedida.
-
-Ao usar este código em seu README, você pode explicar que ele oferece uma maneira fácil de criar ou atualizar arquivos Excel a partir de dados fornecidos, além de fornecer feedback detalhado durante o processo. Lembre-se de fornecer créditos adequados para as bibliotecas de terceiros que são usadas (neste caso, Apache POI).
